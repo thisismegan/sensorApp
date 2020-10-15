@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sensorApp</string>
+    <string name="label_light">label_light</string>
+    <string name="label_proximity">label_proximity</string>
+    <string name="error_no_sensor" />
+    <String name="label_proximity">Proximity Sensor: %1$.2f</String>
+    <String name="label_light">Light Sensor: %1$.2f</String>
+
+    <String name="error_no_sensor">No Sensor</String>
+</resources>
